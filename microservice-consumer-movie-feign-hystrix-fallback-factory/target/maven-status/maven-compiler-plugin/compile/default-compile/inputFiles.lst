@@ -1,0 +1,4 @@
+Z:\spring-cloud-docker-microservice-book-code\microservice-consumer-movie-feign-hystrix-fallback-factory\src\main\java\com\itmuch\cloud\study\ConsumerMovieApplication.java
+Z:\spring-cloud-docker-microservice-book-code\microservice-consumer-movie-feign-hystrix-fallback-factory\src\main\java\com\itmuch\cloud\study\user\entity\User.java
+Z:\spring-cloud-docker-microservice-book-code\microservice-consumer-movie-feign-hystrix-fallback-factory\src\main\java\com\itmuch\cloud\study\user\feign\UserFeignClient.java
+Z:\spring-cloud-docker-microservice-book-code\microservice-consumer-movie-feign-hystrix-fallback-factory\src\main\java\com\itmuch\cloud\study\user\controller\MovieController.java
